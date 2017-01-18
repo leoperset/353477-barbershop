@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Илья Дорофеев](https://up.htmlacademy.ru/htmlcss/16/user/353477).
+* Наставник: [Дмитрий Безуглый](https://htmlacademy.ru/profile/shalfey41)
 
 ---
 
